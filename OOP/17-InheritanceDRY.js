@@ -1,7 +1,5 @@
 // Done by Carlos Amaral (2022/04/22)
 
-const { Carousel } = require("bootstrap");
-
 /*
 There's a principle in programming called Don't Repeat Yourself (DRY). 
 The reason repeated code is a problem is because any change requires fixing 
